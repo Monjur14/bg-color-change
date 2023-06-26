@@ -25,7 +25,3 @@ copy.addEventListener("click", function(){
 })
 
 }
-
-function copied(){
-    alert("Color code is copied");
-}
